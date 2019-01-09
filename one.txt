@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5881-1F45
+
+ Directory of C:\gitt
+
+01/09/2019  12:53 PM    <DIR>          .
+01/09/2019  12:53 PM    <DIR>          ..
+01/09/2019  12:53 PM                 0 one.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   2,730,659,840 bytes free
