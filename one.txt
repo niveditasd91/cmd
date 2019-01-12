@@ -1,6 +1,5 @@
  Volume in drive C has no label.
  Volume Serial Number is 5881-1F45
-
  Directory of C:\gitt
 
 01/09/2019  12:53 PM    <DIR>          .
